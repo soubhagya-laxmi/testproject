@@ -1,0 +1,3 @@
+Data are values of quantitative and qualitative variables belonging to a set of items
+
+
