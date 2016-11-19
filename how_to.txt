@@ -1,0 +1,12 @@
+git tutorial:
+
+1.git init  Or  git clone from a remote server
+ex: git clone http://github.com/xtz
+
+2. make the changes .. add file  edit file
+3. git status
+4. git add a.c b.c
+5. git commit -s
+5.1:  git remote -v 
+6. git push
+
